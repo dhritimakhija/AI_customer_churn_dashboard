@@ -7,4 +7,4 @@ Key insights from the analysis show that month-to-month contracts have the highe
 
 This project demonstrates how predictive analytics combined with interactive BI dashboards can help businesses move beyond historical reporting to anticipate customer behavior and improve retention strategies.
 
-Technologies used: Python, Pandas, Scikit-learn, Feature Engineering, Power BI, DAX, Data Modeling
+Technologies used: Python, Pandas, Scikit-learn, Machine Learning, Feature Engineering, Power BI, DAX, Data Modeling
